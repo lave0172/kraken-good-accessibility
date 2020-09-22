@@ -97,6 +97,10 @@ nav a:focus {
   background-color: #1e7c74;
 }
 
+nav a:focus {
+  outline: 2px solid #000;
+}
+
 .icon {
   position: relative;
 }
